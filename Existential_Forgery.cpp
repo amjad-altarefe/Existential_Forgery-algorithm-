@@ -2,9 +2,9 @@
 
                     • Existential Forgery algorithm in c++.
                             
-        An Elliptic Curve attack algorithm using El-Gamal in C++, 
-       designed to break elliptic curve cryptography by leveraging 
-                    the El-Gamal encryption scheme.
+            An El-Gamal attack algorithm using Existential Forgery in C++, 
+               designed to break the system by forging valid signatures 
+                        without knowing the private key.
 
 *******************************************************************************/
 
